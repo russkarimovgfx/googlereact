@@ -1,0 +1,40 @@
+ * {
+  text-decoration: none;
+  font-size: 14px;
+  font-family: arial, sans-serif;
+  color: #202124;
+ }
+
+
+ .navbar-container {
+  display: flex;
+  justify-content: space-between;
+ }
+
+ .nav-1 {
+  display: flex;
+  padding: 6px;
+  list-style-type: none;
+
+ }
+
+
+
+ .nav-2 {
+  display: flex;
+  padding: 6px;
+  list-style-type: none;
+ }
+
+ .nav-img {
+  border-radius: 15px;
+  height: 32px;
+  position: relative;
+  bottom: 9px;
+
+ }
+
+ .nav-item {
+  padding: 5px;
+  margin: 0 5px;
+ }
