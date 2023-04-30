@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/googlereact/static/css/main.3d5cf7ef.css",
+    "main.js": "/googlereact/static/js/main.d754b473.js",
+    "index.html": "/googlereact/index.html",
+    "main.3d5cf7ef.css.map": "/googlereact/static/css/main.3d5cf7ef.css.map",
+    "main.d754b473.js.map": "/googlereact/static/js/main.d754b473.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d5cf7ef.css",
+    "static/js/main.d754b473.js"
+  ]
+}

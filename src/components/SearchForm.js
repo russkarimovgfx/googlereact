@@ -1,7 +1,15 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import './SearchForm.css';
 
 function SearchForm() {
+
+ const [search, setSearch] = useState("");
+
+ useEffect(() => console.log(search), [search]);
+
+ const updateSearch = (event) => {
+  setSearch(event.target.value);
+ }
  return (
   <>
    <div className="field">
@@ -14,7 +22,7 @@ function SearchForm() {
       <i class="fa-solid fa-camera"></i>
      </div>
     </div>
-    <input type="text" />
+    <input value={search} name="search" onChange={updateSearch} type="text" />
    </div>
   </>
  )
