@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/googlereact/static/css/main.3d5cf7ef.css",
-    "main.js": "/googlereact/static/js/main.d754b473.js",
+    "main.js": "/googlereact/static/js/main.ecbe3183.js",
     "index.html": "/googlereact/index.html",
     "main.3d5cf7ef.css.map": "/googlereact/static/css/main.3d5cf7ef.css.map",
-    "main.d754b473.js.map": "/googlereact/static/js/main.d754b473.js.map"
+    "main.ecbe3183.js.map": "/googlereact/static/js/main.ecbe3183.js.map"
   },
   "entrypoints": [
     "static/css/main.3d5cf7ef.css",
-    "static/js/main.d754b473.js"
+    "static/js/main.ecbe3183.js"
   ]
 }
